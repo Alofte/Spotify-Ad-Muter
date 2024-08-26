@@ -1,8 +1,8 @@
 # Spotify Ad Muter
 
 Spotify Ad Muter is a Python script that automatically mutes advertisements or other unwanted audio on Spotify. By detecting ad titles, it manages the audio session to mute and unmute Spotify seamlessly, providing users with an uninterrupted music experience.
--**Download From Release**: [Release]([https://github.com/Alofte](https://github.com/Alofte/Spotify-Ad-Muter/releases/download/SpotifyAdMuter.exe/SpotifyAdMuter.exe))
--**Download Exe Directly**: [EXE File](https://github.com/Alofte/Spotify-Ad-Muter/releases/tag/SpotifyAdMuter.exe)
+-**Download From Release**: [Release](https://github.com/Alofte/Spotify-Ad-Muter/releases/tag/SpotifyAdMuter.exe)
+-**Download Exe Directly**: [EXE File](https://github.com/Alofte/Spotify-Ad-Muter/releases/download/SpotifyAdMuter.exe/SpotifyAdMuter.exe)
 
 ## Features
 
