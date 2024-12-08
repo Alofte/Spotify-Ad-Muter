@@ -42,7 +42,7 @@ I'm always open to feedback, collaboration, and contributions! If you have any q
 
 - **GitHub**: [Alofte](https://github.com/Alofte)
 - **LinkedIn**: [Alofte](https://www.linkedin.com/in/alofte-py-090680304/)
-- **Email**: [aloft.dev@gmail.com](mailto:aloft.dev@gmail.com)
+- **Email**: [aloft.dev@gmail.com](mailto:alofte.dev@gmail.com)
 
 ### Contributions
 
