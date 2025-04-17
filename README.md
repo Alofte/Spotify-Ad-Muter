@@ -52,5 +52,9 @@ Whether you have a suggestion, found a bug, or want to contribute to the project
 - **Pull Requests**: Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
 - **Collaboration**: If you're interested in collaborating on a feature or project, don't hesitate to get in touch.
 
+### Update:
+- **Music/Artist preview feature**: If you want to use new spotify feature for preview of artist or music and the script is muting them, just delete "spotify free" from your mute list (it is in the same path of app named "mute_list.kson"
+- **Music/Artist preview feature**: If you want to switch between audio outputs and they are mute after switching, just need to pause for 3 sec and play again. you can delete "spotify free" from your mute list (it is in the same path of app named "mute_list.kson" too.
+
 Thank you for your support and interest in this project!  
 Don't forget to ⭐ the project ❤️.
